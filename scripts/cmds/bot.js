@@ -81,7 +81,7 @@ const randomReplies = [
 const rand = randomReplies[Math.floor(Math.random() * randomReplies.length)];
 
 return api.sendMessage({
-body: `《𓆩${name}𓆪》\n\n${rand}`,
+body: `「 ${name} 」\n\n${rand}`,
 mentions: [{ tag: name, id: senderID }]
 }, threadID, (err, info) => {
 if (global.GoatBot?.onReply) global.GoatBot.onReply.set(info.messageID, { commandName: "bot", messageID: info.messageID, author: senderID });
