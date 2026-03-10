@@ -18,7 +18,7 @@ module.exports = {
 /* --- [ 🔐 INTERNAL_SECURE_METADATA ] ---
  * 🤖 BOT NAME: FARHAN BOT
  * 👤 OWNER: FARHAN KHAN 
- * 🔗 FACEBOOK: https://www.facebook.com/DEVIL.FARHAN.420
+ * 🔗 FACEBOOK: https://www.facebook.com/DARK.XAIKO.420
  * 📞 WHATSAPP: +880 1934640061
  * 📍 LOCATION: KHULNA - CHUADANGA, BD
  * --------------------------------------- */
